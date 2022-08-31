@@ -11,7 +11,6 @@ class PersonsListTableViewController: UITableViewController {
 
     var persons: [Persons] = []
 
-
     // MARK: - Table view data source
 
     
